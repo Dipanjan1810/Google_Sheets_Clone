@@ -1,4 +1,4 @@
-# **Google Sheets Clone**
+# **A Web Application Mimicking Google Sheets**
 
 A comprehensive spreadsheet application developed using React, designed to mimic the features and layout of Google Sheets. The application provides advanced functionalities such as formula processing, drag-and-drop selection, undo/redo options, data persistence, and much more.
 
@@ -19,7 +19,7 @@ A comprehensive spreadsheet application developed using React, designed to mimic
 ## **Installation**
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Dipanjan1810/Google_Sheets_Clone.git
 2. Install dependencies:
    ```bash
    npm install
